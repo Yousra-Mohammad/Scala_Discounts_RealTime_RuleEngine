@@ -91,7 +91,7 @@ LOGLEVEL
 MESSAGE
 Finally, all this data is loaded in parallel into CSV backup files DiscountTableBkup for discount data and LogsTableBkup for logs data.
 
-### Project Main Files:### 
+### Project Main Files: ### 
   **row_data** is the source directory that is being watched.
   
   **output_data** contains the backup CSV data files.
