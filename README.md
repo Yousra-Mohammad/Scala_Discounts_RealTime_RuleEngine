@@ -55,11 +55,18 @@ If quantity 11, 12, 13, 14, 15 ‐> discount 15%. etc …
 - All functions are documented.
 
 #### Project Main Functions: ####
-expiration_fn: Calculates the discount to be applied to a product based on its expiration date.
-Product_category: Determines the discount to be applied to a product based on its category.
-exact_day: Determines the discount to be applied to a purchase made on a specific day.
-quantityDiscount: Determines the discount to be applied to a purchase based on the quantity of items bought.
-appDiscount: Determines the discount to be applied to a purchase based on the purchasing channel.
-visaDiscount: Determines the discount to be applied to a purchase based on the payment method.
-appliedDiscount: Determines the discount to be applied to a purchase based on the highest two discount values.
-finalPrice: Determines the final price after applying the discount.
+**expiration_fn:** Calculates the discount to be applied to a product based on its expiration date.
+
+**Product_category:** Determines the discount to be applied to a product based on its category.
+
+**exact_day:** Determines the discount to be applied to a purchase made on a specific day.
+
+**quantityDiscount:** Determines the discount to be applied to a purchase based on the quantity of items bought.
+
+**appDiscount:** Determines the discount to be applied to a purchase based on the purchasing channel.
+
+**visaDiscount:** Determines the discount to be applied to a purchase based on the payment method.
+
+**appliedDiscount:** Determines the discount to be applied to a purchase based on the highest two discount values.
+
+**finalPrice:** Determines the final price after applying the discount.
