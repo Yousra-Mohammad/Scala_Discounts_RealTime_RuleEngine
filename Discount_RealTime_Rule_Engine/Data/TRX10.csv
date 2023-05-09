@@ -1,0 +1,11 @@
+timestamp,product_name,expiry_date,quantity,unit_price,channel,payment_method
+2023-04-02T12:40:05Z,Cheese - Gouda,2023-05-03,7,40.41,App,Visa
+2023-04-23T05:32:16Z,Yokaline,2023-07-02,10,128.82,App,Visa
+2023-03-16T15:22:44Z,The Pop Shoppe - Grape,2023-03-19,5,158.36,App,Visa
+2023-04-05T20:08:25Z,Trueblue - Blueberry 12x473ml,2023-05-16,13,132.15,Store,Cash
+2023-03-14T20:15:26Z,Wine - Soave Folonari,2023-05-22,4,49.64,Store,Cash
+2023-05-02T03:27:37Z,Mustard - Dijon,2023-06-22,5,34.58,App,Visa
+2023-05-05T19:09:02Z,Containter - 3oz Microwave Rect.,2023-07-02,6,8.01,Store,Cash
+2023-04-03T17:40:06Z,Lobster - Cooked,2023-06-17,14,27.1,Store,Visa
+2023-03-16T08:33:12Z,Pork - Bacon Sliced,2023-03-21,16,211.11,Store,Visa
+2023-05-06T05:04:30Z,Extract Vanilla Pure,2023-06-24,5,226.74,Store,Cash
