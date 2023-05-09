@@ -1,0 +1,101 @@
+timestamp,product_name,expiry_date,quantity,unit_price,channel,payment_method
+2023-05-07T08:39:48Z,Bread - Hamburger Buns,2023-07-09,14,83.75,Store,Visa
+2023-04-26T04:39:23Z,Chinese Foods - Plain Fried Rice,2023-05-10,15,29.25,App,Visa
+2023-03-19T19:55:56Z,Bread - Corn Muffaletta,2023-05-17,17,93.17,Store,Cash
+2023-03-20T17:18:18Z,Beans - Black Bean Preserved,2023-06-02,8,105.85,App,Visa
+2023-03-20T21:33:39Z,Sea Bass - Whole,2023-05-17,7,213.84,Store,Visa
+2023-04-10T08:55:16Z,Bag - Bread White Plain,2023-05-28,14,105.76,Store,Cash
+2023-04-14T20:01:03Z,Wine - Vineland Estate Semi - Dry,2023-06-08,11,156.55,Store,Cash
+2023-04-23T23:23:40Z,Smoked Paprika,2023-06-22,16,203.86,Store,Visa
+2023-05-02T01:16:04Z,Sauce - Fish 25 Ozf Bottle,2023-07-16,8,70.06,Store,Cash
+2023-04-24T20:42:04Z,Miso Paste White,2023-04-26,11,101.82,App,Visa
+2023-04-09T05:27:39Z,Sobe - Cranberry Grapefruit,2023-06-08,10,104.82,Store,Cash
+2023-05-07T11:01:28Z,Wine - White Chardonnay,2023-07-22,12,30.77,App,Visa
+2023-04-04T14:09:31Z,Shrimp - 21/25 Peel And Deviened,2023-06-01,16,90.16,Store,Visa
+2023-04-05T17:45:04Z,Filling - Mince Meat,2023-06-26,9,78.79,Store,Cash
+2023-04-20T04:31:38Z,Longos - Lasagna Beef,2023-07-07,14,159.56,App,Visa
+2023-03-18T06:59:53Z,Baking Powder,2023-06-15,7,103.27,App,Visa
+2023-05-03T07:54:24Z,Cake Sheet Combo Party Pack,2023-05-07,14,18.33,App,Visa
+2023-03-18T16:01:25Z,Turkey - Breast Smoked,2023-03-19,12,197.27,App,Visa
+2023-04-28T01:53:01Z,Roe - Lump Fish Black,2023-06-29,13,47.39,Store,Cash
+2023-04-10T18:57:12Z,Peas - Pigeon Dry,2023-04-12,11,218.33,Store,Visa
+2023-03-30T18:25:40Z,Yukon Jack,2023-04-06,11,74.03,Store,Cash
+2023-04-30T19:24:57Z,C - Plus Orange,2023-05-08,3,30.89,App,Visa
+2023-04-04T12:13:10Z,Pickerel - Fillets,2023-05-16,15,172.18,App,Visa
+2023-04-07T12:20:07Z,Beef - Bresaola,2023-04-28,8,172.63,Store,Cash
+2023-03-31T20:03:43Z,Nut - Hazelnut Ground Natural,2023-06-01,4,108.86,Store,Cash
+2023-05-11T20:58:53Z,Basil - Primerba Paste,2023-05-29,5,23.16,App,Visa
+2023-04-10T14:51:44Z,Wine - Touraine Azay - Le - Rideau,2023-06-18,7,110.61,App,Visa
+2023-03-13T13:12:51Z,Coriander - Ground,2023-06-05,1,101.28,Store,Cash
+2023-05-08T11:28:10Z,Pepper - Red Bell,2023-06-19,14,157.92,Store,Visa
+2023-04-21T01:51:49Z,Tuna - Loin,2023-05-22,5,123.23,Store,Cash
+2023-05-07T11:43:32Z,Iced Tea - Lemon 460 Ml,2023-08-02,13,107.09,App,Visa
+2023-04-22T04:13:42Z,Mushroom - Chanterelle Frozen,2023-06-04,5,146.75,App,Visa
+2023-04-26T05:30:53Z,Cactus Pads,2023-05-30,4,249.88,Store,Cash
+2023-04-18T17:24:37Z,Rhubarb,2023-05-23,14,101.55,Store,Cash
+2023-05-03T00:33:35Z,Pork - Backs - Boneless,2023-06-16,12,222.21,Store,Cash
+2023-05-09T16:03:12Z,Bread - White Unsliced,2023-05-31,3,121.01,Store,Cash
+2023-04-10T16:04:41Z,Snapple Raspberry Tea,2023-05-07,4,37.92,Store,Cash
+2023-03-29T06:44:31Z,Pork - Baconback Peameal,2023-05-16,10,34.06,Store,Cash
+2023-04-01T10:37:17Z,Chivas Regal - 12 Year Old,2023-06-21,12,12.14,Store,Visa
+2023-04-25T01:00:09Z,Latex Rubber Gloves Size 9,2023-07-03,4,193.02,Store,Cash
+2023-04-25T05:25:20Z,Chips Potato Reg 43g,2023-06-24,9,159.44,App,Visa
+2023-03-22T07:43:10Z,Truffle Cups - White Paper,2023-05-16,11,96.14,App,Visa
+2023-05-04T04:39:08Z,Wine - Bouchard La Vignee Pinot,2023-06-02,5,219.99,Store,Visa
+2023-04-07T10:35:25Z,Puree - Blackcurrant,2023-05-22,6,221.95,Store,Cash
+2023-05-12T01:58:05Z,Juice - Orange,2023-05-27,5,42.26,Store,Cash
+2023-04-14T00:41:21Z,Cassis,2023-05-07,9,68.51,Store,Visa
+2023-04-13T10:39:52Z,Saskatoon Berries - Frozen,2023-05-23,2,184.96,Store,Visa
+2023-03-23T14:36:33Z,Cheese - Mix,2023-05-04,1,94.06,Store,Visa
+2023-04-10T02:40:29Z,Pasta - Lasagna Dry,2023-06-08,11,118.2,Store,Visa
+2023-03-19T22:26:47Z,Rice - Aborio,2023-05-19,13,244.82,Store,Cash
+2023-03-24T02:09:31Z,Tea - Honey Green Tea,2023-04-11,12,99,App,Visa
+2023-03-23T02:14:34Z,Sardines,2023-06-21,4,167.06,Store,Visa
+2023-04-13T17:03:51Z,Cookies - Englishbay Wht,2023-05-29,11,118.81,App,Visa
+2023-03-27T05:33:44Z,Syrup - Golden Lyles,2023-06-05,1,77.79,App,Visa
+2023-05-07T14:37:27Z,Pur Source,2023-07-10,16,105.46,Store,Visa
+2023-04-25T01:07:14Z,Fondant - Icing,2023-05-20,10,18.62,Store,Visa
+2023-05-01T07:38:33Z,Phyllo Dough,2023-06-29,16,161.75,App,Visa
+2023-03-25T17:12:51Z,Coffee - Ristretto Coffee Capsule,2023-06-13,7,245.93,Store,Cash
+2023-03-25T00:03:55Z,Quail - Eggs Fresh,2023-05-13,13,73.31,Store,Cash
+2023-04-24T10:33:31Z,Energy Drink - Franks Pineapple,2023-05-04,9,190.59,Store,Cash
+2023-03-28T12:46:48Z,Chicken - Ground,2023-05-07,9,132.2,App,Visa
+2023-03-26T18:37:00Z,Tea - Orange Pekoe,2023-04-23,6,186.68,Store,Visa
+2023-05-08T08:34:42Z,Oil - Olive Bertolli,2023-07-04,4,155.65,Store,Visa
+2023-03-20T16:00:50Z,Grenadillo,2023-04-27,9,177.86,Store,Visa
+2023-03-24T20:44:18Z,Turkey - Breast Bone - In,2023-04-20,5,8.5,Store,Cash
+2023-05-01T18:25:55Z,Oil - Shortening - All - Purpose,2023-07-18,11,123.71,Store,Visa
+2023-03-18T09:16:34Z,Appetizer - Seafood Assortment,2023-04-19,16,150.71,Store,Cash
+2023-05-09T16:22:21Z,Juice - V8 Tomato,2023-06-13,10,209.53,Store,Cash
+2023-03-28T01:31:17Z,Coriander - Ground,2023-03-29,12,100.69,App,Visa
+2023-05-05T20:59:24Z,Juice - Tomato 48 Oz,2023-06-15,5,40.78,App,Visa
+2023-03-24T18:16:26Z,Yogurt - Banana 175 Gr,2023-05-20,9,171.35,Store,Cash
+2023-03-17T14:27:39Z,Gatorade - Xfactor Berry,2023-03-27,15,191.41,App,Visa
+2023-03-26T16:32:47Z,Brandy Cherry - Mcguinness,2023-04-10,7,96.16,Store,Visa
+2023-05-12T00:43:07Z,Duck - Whole,2023-05-15,8,71.93,App,Visa
+2023-04-26T13:41:14Z,Foil Wrap,2023-05-19,16,148.46,Store,Cash
+2023-04-11T14:02:11Z,Lamb - Shoulder,2023-06-06,2,54.73,Store,Cash
+2023-04-10T13:04:39Z,Pepper - Jalapeno,2023-05-18,15,2.6,Store,Cash
+2023-04-14T10:21:04Z,Cookies - Englishbay Chochip,2023-05-31,8,115.46,App,Visa
+2023-03-13T14:57:11Z,Gherkin - Sour,2023-04-06,8,232.7,Store,Visa
+2023-04-11T20:00:55Z,Plate Foam Laminated 9in Blk,2023-05-26,16,9.69,App,Visa
+2023-04-06T05:43:36Z,Cinnamon - Stick,2023-06-30,3,143.9,App,Visa
+2023-03-21T14:58:42Z,Cloves - Whole,2023-04-18,7,90.94,App,Visa
+2023-05-01T01:32:54Z,Potatoes - Mini Red,2023-06-26,3,154.68,App,Visa
+2023-04-08T03:18:00Z,Muffin Hinge 117n,2023-04-14,5,167.34,App,Visa
+2023-04-09T16:43:00Z,Bread - Sticks Thin Plain,2023-05-30,17,69.35,App,Visa
+2023-04-20T13:03:49Z,Energy - Boo - Koo,2023-05-10,7,232.94,Store,Visa
+2023-04-03T20:30:05Z,Steamers White,2023-04-09,6,119.59,App,Visa
+2023-04-02T14:13:04Z,Coke - Classic 355 Ml,2023-04-12,14,194.65,Store,Visa
+2023-04-05T16:32:36Z,Soup - Campbells - Tomato,2023-06-06,7,152.91,Store,Cash
+2023-04-05T21:30:11Z,Compound - Strawberry,2023-05-07,3,195.25,Store,Cash
+2023-04-07T20:32:42Z,Cranberries - Frozen,2023-04-19,6,150.94,Store,Cash
+2023-04-01T15:54:25Z,Pie Box - Cello Window 2.5,2023-04-27,13,9.32,Store,Cash
+2023-03-19T08:30:48Z,Apple - Fuji,2023-05-21,9,8.41,App,Visa
+2023-04-23T14:37:22Z,Beans - Black Bean Canned,2023-05-28,8,226.05,App,Visa
+2023-04-19T07:34:11Z,Bread - Corn Muffaletta,2023-05-29,8,71.76,Store,Cash
+2023-04-01T18:12:07Z,Plasticspoonblack,2023-06-16,9,48.37,Store,Cash
+2023-03-30T06:56:14Z,Pepsi - 600ml,2023-06-02,5,25.29,Store,Visa
+2023-03-21T07:06:41Z,Pastry - Baked Cinnamon Stick,2023-05-01,6,28.63,App,Visa
+2023-04-25T14:53:06Z,Vinegar - White Wine,2023-05-17,15,130.24,App,Visa
+2023-05-05T04:51:16Z,Lobster - Live,2023-07-02,17,51.09,Store,Visa
