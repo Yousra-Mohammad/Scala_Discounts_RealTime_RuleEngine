@@ -54,7 +54,7 @@ If quantity 11, 12, 13, 14, 15 ‐> discount 15%. etc …
 - No loops and no Null values are used.
 - All functions are documented.
 
-**Project Main Functions:**
+#### Project Main Functions: ####
 expiration_fn: Calculates the discount to be applied to a product based on its expiration date.
 Product_category: Determines the discount to be applied to a product based on its category.
 exact_day: Determines the discount to be applied to a purchase made on a specific day.
