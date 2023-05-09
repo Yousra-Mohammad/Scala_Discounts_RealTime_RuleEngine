@@ -55,18 +55,45 @@ If quantity 11, 12, 13, 14, 15 ‐> discount 15%. etc …
 - All functions are documented.
 
 #### Project Main Functions: ####
-**expiration_fn:** Calculates the discount to be applied to a product based on its expiration date.
+   **expiration_fn:** Calculates the discount to be applied to a product based on its expiration date.
+   
+   **Product_category:** Determines the discount to be applied to a product based on its category.
+   
+   **exact_day:** Determines the discount to be applied to a purchase made on a specific day.
+   
+   **quantityDiscount:** Determines the discount to be applied to a purchase based on the quantity of items bought.
+   
+   **appDiscount:** Determines the discount to be applied to a purchase based on the purchasing channel.
+   
+   **visaDiscount:** Determines the discount to be applied to a purchase based on the payment method.
+   
+   **appliedDiscount:** Determines the discount to be applied to a purchase based on the highest two discount values.
+   
+   **finalPrice:** Determines the final price after applying the discount.
 
-**Product_category:** Determines the discount to be applied to a product based on its category.
+### How does It work? #### 
+using the  ***WatchService***  the source folder is tracking for any events. So, when new CSV files are added, it will read them into Scala data structures like Lists, process it, then upload the result into Scala data structures.
+The data structures of the result will be loaded into MySQL database, in a table called discountstable that has the following columns:
 
-**exact_day:** Determines the discount to be applied to a purchase made on a specific day.
+- Purchasing_Time
+- Product
+- Expiration_Date
+- Quantity
+- Price
+- Payment_Method
+- Discount
+- Final_Price
 
-**quantityDiscount:** Determines the discount to be applied to a purchase based on the quantity of items bought.
+Also, Logs data are tracked by storing the files' reading timestamp, the files' writing timestamp, and the processing timestamp. In addition to the number of transactions that had a discount from each file. All logs data is loaded in a MySQL database table called logstable that has the following columns:
 
-**appDiscount:** Determines the discount to be applied to a purchase based on the purchasing channel.
+TIMESTAMP
+LOGLEVEL
+MESSAGE
+Finally, all this data is loaded in parallel into CSV backup files DiscountTableBkup for discount data and LogsTableBkup for logs data.
 
-**visaDiscount:** Determines the discount to be applied to a purchase based on the payment method.
+### Full and Brief Demo ### 
 
-**appliedDiscount:** Determines the discount to be applied to a purchase based on the highest two discount values.
 
-**finalPrice:** Determines the final price after applying the discount.
+
+
+
